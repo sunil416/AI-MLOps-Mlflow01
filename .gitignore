@@ -130,3 +130,6 @@ dmypy.json
 
 #ignoring the env folder
 env/
+
+temp/
+mlruns/
